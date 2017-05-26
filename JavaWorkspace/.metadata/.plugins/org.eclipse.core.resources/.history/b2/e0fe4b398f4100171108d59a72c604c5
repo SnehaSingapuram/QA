@@ -1,0 +1,24 @@
+package example;
+
+public class Employee {
+
+	//This instance variable is visible inside any child class 
+	public String name;
+	
+	//Salary variable is visible only in Employee class only
+	private double salary;
+	
+	//The Name variable is assigned in the constructor
+	public Employee(String empName)
+	{
+		Name = empName;
+	}
+	
+	public static void main(String[] args) 
+	{
+	
+		
+
+	}
+
+}

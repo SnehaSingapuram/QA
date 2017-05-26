@@ -1,0 +1,15 @@
+package Parameters;
+
+public class Example {
+
+	public static void main(String[] args)
+	{
+	welcome("Sneha");	
+	welcome( "Anvesh");	
+
+	}
+public static void welcome(String name)
+{
+	System.out.println("name" +name);
+}
+}

@@ -1,0 +1,1 @@
+SELECT * FROM database123.employeedetails where EmpID >=1;
