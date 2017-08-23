@@ -1,0 +1,25 @@
+package checkCheckBoxes;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class CheckBoxes {
+
+	public static void main(String[] args)
+	{
+		
+//		System.getProperty("webdriver.gecko.driver", "C:\\Users\\sneha\\Drivers\\geckodriver.exe");
+//		WebDriver driver = new FirefoxDriver();
+//		
+//		driver.get("https://www.facebook.com/");
+//		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

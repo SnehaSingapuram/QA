@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35405" started-at="2017-07-15T22:36:54Z" finished-at="2017-07-15T22:37:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35405" started-at="2017-07-15T22:36:54Z" finished-at="2017-07-15T22:37:29Z">
+      <class name="example.WindowSwitch">
+        <test-method status="PASS" signature="switchChildWindow()[pri:0, instance:example.WindowSwitch@c038203]" name="switchChildWindow" duration-ms="35232" started-at="2017-07-15T17:36:54Z" finished-at="2017-07-15T17:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchChildWindow -->
+      </class> <!-- example.WindowSwitch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
